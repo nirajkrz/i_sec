@@ -1,1 +1,1 @@
-# i_sec
+# Notes from Information Security
