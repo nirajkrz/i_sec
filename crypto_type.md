@@ -13,3 +13,6 @@
 Approx Time to break the cyphers :
 
 <img width="867" alt="Screen Shot 2021-05-16 at 11 10 35 AM" src="https://user-images.githubusercontent.com/8097923/118404180-62aea000-b637-11eb-9e86-c00cbed23fd1.png">
+
+<img width="869" alt="Screen Shot 2021-05-16 at 11 12 07 AM" src="https://user-images.githubusercontent.com/8097923/118404272-e5cff600-b637-11eb-8eaa-f8cc1272a932.png">
+<img width="898" alt="Screen Shot 2021-05-16 at 11 13 46 AM" src="https://user-images.githubusercontent.com/8097923/118404283-ed8f9a80-b637-11eb-9a58-e157e873db94.png">
